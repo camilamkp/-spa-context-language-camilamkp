@@ -3,7 +3,7 @@
 `createContext`/`useContext`
 
 ---
-Eine Dropdown-Liste anzeigen, in der der Nutzer aus verschiedenen Sprachen (DEU, ENG) auswählen kann.
+Eine Dropdown-Liste anzeigen, in der der Nutzer aus verschiedenen Sprachen auswählen kann.
 
 - DEU: "Hallo Welt!"
 - ENG: "Hello World!"
